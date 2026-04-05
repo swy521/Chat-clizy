@@ -24,9 +24,9 @@ MODELS = {
         "context_window": 128000
     },
     "zhipu": {
-        "api_key": "ecdd9d264373429bb51bb11f4dc2a3d0.gMYBI9vyu5SzDvEh",  # 智谱Key
+        "api_key": "ecdd9d264373429bb51bb11f4dc2a3d0.gMYBI9vyu5SzDvEh",
         "base_url": "https://open.bigmodel.cn/api/paas/v4/",
-        "model": "glm-4-flash",  # 智谱免费模型
+        "model": "glm-4-flash",
         "max_tokens": 4096,
         "context_window": 128000
     }
